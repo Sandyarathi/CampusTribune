@@ -1,4 +1,4 @@
-package com.ct.user.dataAccessObjects.copy;
+package com.ct.user.dataAccessObjects;
 
 import java.util.List;
 

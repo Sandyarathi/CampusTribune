@@ -5,7 +5,7 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import com.ct.objects.User;
-import com.ct.user.dataAccessObjects.copy.UserDAO;
+import com.ct.user.dataAccessObjects.UserDAO;
 import com.ct.user.serviceInterfaces.IUserService;
 
 
